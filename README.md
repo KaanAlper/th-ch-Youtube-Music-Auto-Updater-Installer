@@ -82,15 +82,17 @@ sudo systemctl daemon-reload
 
 ## 📌 License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+This project is licensed under the Kaan Alper Karaaslan Personal & Academic Use License (v1.1).
 
 🔹 Summary of the License:
 
-✅ You are free to share and modify the script for personal use.
+✅ You are free to use, modify, and distribute this software for personal and academic purposes.
 
-❌ You may NOT use this script for commercial purposes.
+❌ Commercial use is strictly prohibited. You may not sell, license, or integrate this software into any commercial product or service.
 
-✅ Attribution is required if you share modified versions.
+✅ If you modify and share this software, you must provide proper attribution and retain this license.
 
-For full details, see: CC BY-NC 4.0 License.
+📧 If you wish to use this software for commercial purposes, you must obtain explicit permission from the author by contacting: kaanalperkaraaslan@gmail.com.
+
+For full details, please refer to the complete license text included in this repository.
 
